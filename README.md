@@ -1,5 +1,6 @@
 # CSS Animations
 The following are examples of CSS animations.
+
 Click on image to open an example!
 ## Animation 1
 [![anim1](https://github.com/dimaTarhan/animations/blob/master/slack_anim.PNG](https://codepen.io/diditar/pen/oQdLdR)
