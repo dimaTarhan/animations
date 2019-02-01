@@ -1,5 +1,5 @@
 # CSS Animations
-The following are examples of CSS animations.
+The following are some CSS animations.
 
 Click on image to open an example!
 ## Technologies
